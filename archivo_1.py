@@ -19,7 +19,3 @@ def funcion():
 
 
 
-
-
-def funcion2():
-    return 2+2
